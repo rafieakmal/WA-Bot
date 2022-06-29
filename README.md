@@ -1,4 +1,4 @@
-# ![VHtear](https://vhtear.com/static/assets/img/brand/favicon.ico) Selfbot Whatsapp
+# Selfbot Whatsapp
 [![NPM](https://img.shields.io/badge/npm-%3E=%206.14.11-blue.svg)](https://nodejs.org/) [![Node](https://img.shields.io/badge/node-%3E=%2011.15.0-brightgreen.svg)](https://nodejs.org/) [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/fckveza/Selfbot-Whatsapp/blob/master/LICENSE) [![source](https://img.shields.io/badge/Baileys-%203.4.1-brightgreen.svg)](https://github.com/adiwajshing/Baileys) [![Chat me](https://img.shields.io/badge/chat-me%20whatsapp-1bacbc.svg)](https://wa.me/6281238552767) <br><br>
 VHtear API's Example *beta*
 
@@ -47,23 +47,9 @@ $ npm i
 ## How to run
 
 ```sh
-$ node vhtear.js
+$ node main.js
 ```
 or<br>
 ```sh
 $ npm start
 ```
-
-## What is WA Selfbot ?
-
-WhatsApp Web API - This script is just for example *VHtear API's* request 
-
-- Sekali lagi script ini hanya untuk Contoh request [VHtear-API's](https://vhtear.com)
-
-- Jika ingin menambahkan Fiture lain dari Whatsapp/Basic bisa kunjungi dari liberary yang kita pakai > [Source Code *Baileys*](https://github.com/adiwajshing/Baileys)
-
-## Keyword
-
-Type `help` to see the keyword
-<br>
-If you have an problem, you can contact [Veza](https://wa.me/6281238552767) or [Elfox](https://wa.me/6281319865418)
