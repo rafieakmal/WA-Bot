@@ -29,7 +29,7 @@ const {
 	VHsendMention,
 	Removebg,
 	Searchanime
-} = require('./Liberary/VHtearFunc');
+} = require('VHtearFunc');
 
 const PremiumKey = "c7095078370a4592b24684bdb038506c"
 const Host = "https://api.vhtear.com"
